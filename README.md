@@ -1,1 +1,1 @@
-# Industrial_Data_Science
+# Industrial-Data-Science
